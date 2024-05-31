@@ -1,0 +1,24 @@
+{
+  "section": {
+    "facing": "Facing",
+    "weapon": "Weapon"
+  },
+  "Facing": {
+    "left": "Left",
+    "right": "Right"
+  },
+  "Weapon": {
+    "buster": "Mega Buster",
+    "heat": "Atomic Fire",
+    "air": "Air Shooter",
+    "wood": "Leaf Shield",
+    "bubble": "Bubble Lead",
+    "quick": "Quick Boomerang",
+    "flash": "Time Stopper",
+    "metal": "Metal Blade",
+    "crash": "Crash Bomber",
+    "item1": "Item 1 - Propeller",
+    "item2": "Item 2 - Rocket",
+    "item3": "Item 3 - Bouncy"
+  }
+}

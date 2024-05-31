@@ -1,0 +1,68 @@
+{
+    "$schema": "../../../../../schema/spiffy-buttons.schema.json",
+    "button-groups": [
+      {
+        "group-fish-key": "weapon",
+        "buttons": [
+          {
+            "fish-subkey": "buster",
+            "img": "buster.png",
+            "default": true
+          },
+          {
+            "fish-subkey": "heat",
+            "img": "heat.png"
+          },
+          {
+            "fish-subkey": "air",
+            "img": "air.png"
+          },
+          {
+            "fish-subkey": "wood",
+            "img": "wood.png"
+          },
+          {
+            "fish-subkey": "bubble",
+            "img": "bubble.png"
+          },
+          {
+            "fish-subkey": "quick",
+            "img": "quick.png"
+          },
+          {
+            "fish-subkey": "flash",
+            "img": "flash.png"
+          },
+          {
+            "fish-subkey": "metal",
+            "img": "metal.png"
+          },
+          {
+            "fish-subkey": "crash",
+            "img": "crash.png"
+          },
+          {
+            "fish-subkey": "item1",
+            "img": "item1.png"
+          },
+          {
+            "fish-subkey": "item2",
+            "img": "item2.png"
+          },
+          {
+            "fish-subkey": "item3",
+            "img": "item3.png"
+          }
+        ]
+      }
+    ],
+    "tests": {
+      "Stand": {
+        "frame": 0,
+        "selections": [
+          [],
+          ["buster"]
+        ]
+      }
+    }
+  }
